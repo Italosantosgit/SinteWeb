@@ -1,0 +1,14 @@
+C:\Users\Italo\source\repos\SinteWeb\SinteWeb\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Italo\source\repos\SinteWeb\SinteWeb\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Italo\source\repos\SinteWeb\SinteWeb\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\Italo\source\repos\SinteWeb\SinteWeb\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Italo\source\repos\SinteWeb\SinteWeb\bin\Debug\netcoreapp2.0\SinteWeb.deps.json
+C:\Users\Italo\source\repos\SinteWeb\SinteWeb\bin\Debug\netcoreapp2.0\SinteWeb.runtimeconfig.json
+C:\Users\Italo\source\repos\SinteWeb\SinteWeb\bin\Debug\netcoreapp2.0\SinteWeb.runtimeconfig.dev.json
+C:\Users\Italo\source\repos\SinteWeb\SinteWeb\bin\Debug\netcoreapp2.0\SinteWeb.dll
+C:\Users\Italo\source\repos\SinteWeb\SinteWeb\bin\Debug\netcoreapp2.0\SinteWeb.pdb
+C:\Users\Italo\source\repos\SinteWeb\SinteWeb\obj\Debug\netcoreapp2.0\SinteWeb.csprojAssemblyReference.cache
+C:\Users\Italo\source\repos\SinteWeb\SinteWeb\obj\Debug\netcoreapp2.0\SinteWeb.AssemblyInfoInputs.cache
+C:\Users\Italo\source\repos\SinteWeb\SinteWeb\obj\Debug\netcoreapp2.0\SinteWeb.AssemblyInfo.cs
+C:\Users\Italo\source\repos\SinteWeb\SinteWeb\obj\Debug\netcoreapp2.0\SinteWeb.dll
+C:\Users\Italo\source\repos\SinteWeb\SinteWeb\obj\Debug\netcoreapp2.0\SinteWeb.pdb
